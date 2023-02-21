@@ -1,0 +1,9 @@
+Flask==2.0.1
+numpy==1.19.5
+pandas==1.1.5
+scikit-learn==0.24.2
+tensorflow-cpu==2.5.0
+tensorflow-estimator==2.5.0
+gunicorn==19.3.0
+flask_cors==3.0.10
+pydot==1.4.2
